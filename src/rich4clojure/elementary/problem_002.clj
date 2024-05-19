@@ -19,7 +19,7 @@
   )
 
 (tests
-  (- 10 (* 2 3)) := 44)
+  (- 10 (* 2 3)) := 4)
 
 ;; Share your solution, and/or check how others did it:
 ;; https://gist.github.com/0431a32b7520fbb82264004059a32d90
